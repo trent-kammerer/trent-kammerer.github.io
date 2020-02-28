@@ -1,10 +1,12 @@
 /*CSS Documents */
- img {
-    width: 30%;
+
+img{
+    width: 100%;
 }
- body{
+body{
      background-color: #fff9ed;
 }
+
  h1{
      font-family: cubano-sharp, sans-serif;
      font-weight: 400;
@@ -17,51 +19,85 @@
      font-weight: 700;
      font-style: normal;
      color: #ff0033;
+     margin-bottom: .2em;
+     margin-top: .2em;
 }
  h3{
      font-family: omnes-pro, sans-serif;
      font-weight: 700;
      font-style: normal;
+     margin-bottom: 0em;
+     margin-top:0em;
 }
  h4{
      font-family: omnes-pro, sans-serif;
      font-weight: 400;
      font-style: normal;
+     margin-top: .2em;
+     margin-bottom: .2em;
 }
  p{
      font-family: omnes-pro, sans-serif;
      font-weight: 300;
      font-style: normal;
+     margin-bottom: .8em;
+     margin-top: .1em;
 }
  li{
      font-family: omnes-pro, sans-serif;
      font-weight: 300;
      font-style: normal;
 }
- .navbar li{
-     font-family: omnes-pro, sans-serif;
-     font-weight: 300;
-     font-style: normal;
-     display: inline-block;
-     margin-top: 1em;
+
+
+.container{
+    max-width: 50em;
+    margin:auto;
 }
- .navbar ul {
+.logo{
+    width:30em;
+}
+
+  .navbar ul {
      list-style-type: none;
      margin: 0;
      padding: 0;
      background-color: #ff3366;
-     min-height: 3.4em;
+/*     min-height: 3.4em;*/
 }
+
+
+.navbar ul li{
+     font-family: omnes-pro, sans-serif;
+     font-weight: 300;
+     font-style: normal;
+/*     display: inline;*/
+/*    font-size: 2em;*/
+    padding-left: .2em;
+
+}
+
+
+
+
+
  .navbar li a {
      color: white;
      text-decoration: none;
-     padding: 1em;
 }
- .navbar li a:hover {
-     background-color: #ff0033;
-}
+
+
+
  .homeimages {
      float:left;
      align-content: center;
+     max-width: 
 }
- .
+
+/*
+ .navbar li a:hover {
+     background-color: #ff0033;
+}
+*/
+
+
