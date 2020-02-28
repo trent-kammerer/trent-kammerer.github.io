@@ -1,0 +1,67 @@
+/*CSS Documents */
+ img {
+    width: 30%;
+}
+ body{
+     background-color: #fff9ed;
+}
+ h1{
+     font-family: cubano-sharp, sans-serif;
+     font-weight: 400;
+     font-size: 3em;
+     font-style: normal;
+     margin-bottom: .2em;
+}
+ h2{
+     font-family: gitan-latin, sans-serif;
+     font-weight: 700;
+     font-style: normal;
+     color: #ff0033;
+}
+ h3{
+     font-family: omnes-pro, sans-serif;
+     font-weight: 700;
+     font-style: normal;
+}
+ h4{
+     font-family: omnes-pro, sans-serif;
+     font-weight: 400;
+     font-style: normal;
+}
+ p{
+     font-family: omnes-pro, sans-serif;
+     font-weight: 300;
+     font-style: normal;
+}
+ li{
+     font-family: omnes-pro, sans-serif;
+     font-weight: 300;
+     font-style: normal;
+}
+ .navbar li{
+     font-family: omnes-pro, sans-serif;
+     font-weight: 300;
+     font-style: normal;
+     display: inline-block;
+     margin-top: 1em;
+}
+ .navbar ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     background-color: #ff3366;
+     min-height: 3.4em;
+}
+ .navbar li a {
+     color: white;
+     text-decoration: none;
+     padding: 1em;
+}
+ .navbar li a:hover {
+     background-color: #ff0033;
+}
+ .homeimages {
+     float:left;
+     align-content: center;
+}
+ .
