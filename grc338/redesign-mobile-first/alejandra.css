@@ -77,23 +77,21 @@ body{
 
 }
 
-
-
-
-
  .navbar li a {
      color: white;
      text-decoration: none;
 }
 
-
-
  .homeimages {
      float:left;
      align-content: center;
-     max-width: 
 }
 
+.menuimages{
+    float:left;
+    align-content: center; 
+    
+}
 /*
  .navbar li a:hover {
      background-color: #ff0033;
