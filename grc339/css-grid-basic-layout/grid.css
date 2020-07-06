@@ -10,7 +10,7 @@ body {
 	
 div.container {
     display: grid;
-    grid-template-columns: repreat(2,1fr);
+    grid-template-columns: repeat(2,1fr);
     max-width: 60em;
     margin: auto;
 }
