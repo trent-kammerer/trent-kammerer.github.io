@@ -1,0 +1,93 @@
+/*CSS DOCUMENT*/
+
+h1, h2, h3, h4, ul, ol, li {margin: 0; padding:0; font-size: 1em; font-weight: normal;} 
+
+img {
+    max-width: 42em;
+}
+
+.history { 
+    background-color: #b7c5c6;
+    padding: 2em;
+    padding-top: 10%;
+}
+
+.intro {
+    background-color: #fbf7f3;
+    padding: 10em;
+}
+
+p {
+  font-family: latienne-pro,serif;
+font-weight: 400;
+font-style: normal;
+    color: #213a43;
+}
+
+h1 { 
+    font-family: span,serif;
+    font-weight: 350;
+    font-style: bold;
+    font-size: 3em;
+    float: left;
+    color: #b16c33;
+}
+
+h2 {
+    font-family: hero-new-hairline,sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    text-transform: uppercase;
+    color: #ffff;
+}
+
+h3 {
+    font-family: hero-new-hairline,sans-serif;
+font-weight: 100;
+font-style: italic;
+    color: #ffff;
+    text-transform: lowercase;
+}
+
+
+.baskerville_comp {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px; 
+    padding-top: 1em;
+}
+
+.caslon_comp {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px; 
+    border: 3em;
+    border-color: 
+}
+
+.baskhistory {
+    float: left;
+    width: 40%;
+    height:200px;
+    margin: 0 auto;
+}
+
+.caslonhistory {
+float: right;
+    width: 40%;
+      height:200px;
+      margin: 0 auto;
+}
+
+.center {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 99%;}
+
+hr {
+    margin: 2em;
+}
+
